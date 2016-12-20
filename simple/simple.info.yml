@@ -1,0 +1,5 @@
+name: Map Config Module
+type: module
+description: Used to save the custom module configuration.
+package: Custom
+core: 8.x
